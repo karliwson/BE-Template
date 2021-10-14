@@ -25,6 +25,10 @@ yarn test
 yarn lint
 ```
 
+## Info
+
+The API responses follow the [JSend](https://github.com/omniti-labs/jsend) specification.
+
 ## Progress
 
 - [x] Project Structure
